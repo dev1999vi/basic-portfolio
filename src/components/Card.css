@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300&display=swap');
+.card {
+    background-color: white;
+    border-radius: 10px;
+    color: black;
+    text-align: left;
+}
+
+.project-image{
+    border-radius: 10px;
+}
+
+.description{
+    padding-left: 10px;
+    text-align: left;
+    font-family: 'Open Sans', sans-serif;
+    color: #80a49f;
+    font-weight: bold;
+}
+
+.arrow{
+    color: black;
+}
+
+.heading{
+  display: flex;
+}
